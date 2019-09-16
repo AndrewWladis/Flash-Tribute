@@ -1,0 +1,30 @@
+    .small {
+        height: 375px;
+        width: 1000px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .small-black {
+        font-size: 15px;
+        color: gray;
+    }
+     img {
+       max-width: 100%;
+       height: auto;  
+       display: block;
+     }
+    
+    body {
+        text-align: center;
+        color: yellow; 
+        background-color: red; 
+    }
+    .div-class{
+        background-color: lightseagreen;
+    }
+
+    iframe {
+        margin: 50px;
+    }
